@@ -1,0 +1,5 @@
+name: Regweb
+description: Integration with Regweb member system (regweb.no)
+core: 8.x
+type: module
+package: Regweb
